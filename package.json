@@ -1,12 +1,12 @@
 {
-  "name": "measurementjs",
-  "version": "0.1.1a",
-  "description": "Nice unit-of-measure conversion.",
+  "name": "shopify-measurementjs",
+  "version": "0.1.0",
+  "description": "Fork of measurement.js with everything properly published",
   "readmeFilename": "README.md",
   "main": "measurement.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Philzen/measurement.js"
+    "url": "git://github.com/Shopify/measurement.js"
   },
   "license": "MIT",
   "author": "Philzen <phil AT patient-radio.de>",
